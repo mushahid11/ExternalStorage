@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExternalStorage</string>
+    <string name="reading_and_writing_to_external_storage">Reading/Writing to External/Storage</string>
+</resources>
